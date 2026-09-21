@@ -10,7 +10,7 @@ authors:
   - family-names: Behzad
     given-names: Muzammil
 license: MIT
-repository-code: "https://github.com/safwanx/anonymized-not-anonymous"
+repository-code: "https://github.com/BRAIN-Lab-AI/Anonymized-But-Not-Anonymous"
 preferred-citation:
   type: conference-paper
   title: "Anonymized but Not Anonymous: Multi-Cue Identity Leakage in Privacy-Preserving Action Recognition"
