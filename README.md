@@ -5,13 +5,12 @@
 <p align="center">
   <b><a href="https://safwanx.github.io/">Safwan Nabeel</a></b><sup>1</sup> &nbsp;
   <b>Farah AlShiha</b><sup>2</sup> &nbsp;
-  <b><a href="https://muzammilbehzad.com/">Muzammil Behzad</a></b><sup>3</sup>
+  <b><a href="https://muzammilbehzad.com/">Muzammil Behzad</a></b><sup>1</sup>
 </p>
 
 <p align="center">
-  <sup>1</sup>Independent Researcher &nbsp;
-  <sup>2</sup>Columbia University, New York, NY, USA &nbsp;
-  <sup>3</sup>King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia
+  <sup>1</sup>King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia &nbsp;
+  <sup>2</sup>Columbia University, New York, NY, USA
 </p>
 
 <p align="center"><b>Asian Conference on Computer Vision (ACCV) 2026</b></p>
