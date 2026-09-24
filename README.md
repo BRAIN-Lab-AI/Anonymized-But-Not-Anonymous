@@ -1,6 +1,4 @@
-<h1 align="center">Anonymized but Not Anonymous</h1>
-
-<p align="center"><b>Multi-Cue Identity Leakage in Privacy-Preserving Action Recognition</b></p>
+<h1 align="center">Anonymized but Not Anonymous: Multi-Cue Identity Leakage in Privacy-Preserving Action Recognition</h1>
 
 <p align="center">
   <b><a href="https://safwanx.github.io/">Safwan Nabeel</a></b><sup>1</sup> &nbsp;
